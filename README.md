@@ -1,5 +1,7 @@
 # Computational Physics
 
+--------------------------------------------------------------------------------
+
 ## General Information
 
 ### Content
@@ -25,6 +27,9 @@ or GPU programming.
 **Reference material:** no textbook, although "Scientific Computing"
 by Heath might be useful
 
+
+--------------------------------------------------------------------------------
+
 ### Format
 
 **Course number:** This is course PHYS 776 at the [University of
@@ -38,6 +43,9 @@ encouraged
 
 **Assessment type:** pass/fail
 
+
+--------------------------------------------------------------------------------
+
 ### Location
 
 **Location:** Time Room, Perimeter Institute
@@ -46,12 +54,18 @@ encouraged
 
 **First Lecture:** Monday Jan. 13, 2020
 
+
+--------------------------------------------------------------------------------
+
 ### Contact
 
 Contact Erik Schnetter <eschnetter@perimeterinstitute.ca> by email, or
 open an issue in this repository (which will be public).
 
 
+
+
+--------------------------------------------------------------------------------
 
 ## Schedule (may change)
 

@@ -96,9 +96,9 @@ discretizations, and will solve a wave equation.
 
 **Week 6: Feb 17 & 19:** *No lectures* (Family Day, Reading week)
 
-**Week 7: Feb 24 & 26:** *Will East: Relativistic Hydrodynamics I*
+**Week 7: Feb 24 & 26:** (TBA)
 
-**Week 8: Mar 2 & 4:** *Will East: Relativistic Hydrodynamics II*
+**Week 8: Mar 2 & 4:** *Will East: Relativistic Hydrodynamics*
 
 **Week 9: Mar 9 & 11:** *Denis Rosset: Convex Optimization*
 

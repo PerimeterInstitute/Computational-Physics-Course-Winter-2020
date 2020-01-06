@@ -27,6 +27,9 @@ by Heath might be useful
 
 ### Format
 
+**Course number:** This is course PHYS 776 at the [University of
+Waterloo](https://uwaterloo.ca/physics-astronomy/)
+
 **Format:** The course consists of six two-week modules; most can be
 attended independently
 

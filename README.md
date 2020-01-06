@@ -1,6 +1,8 @@
 # Computational Physics
 
-## Content
+## General Information
+
+### Content
 
 **Lecturers:** Erik Schnetter, Dustin Lang, several guest lecturers
 
@@ -23,7 +25,7 @@ or GPU programming.
 **Reference material:** no textbook, although "Scientific Computing"
 by Heath might be useful
 
-## Format
+### Format
 
 **Format:** The course consists of six two-week modules; most can be
 attended independently
@@ -33,7 +35,7 @@ encouraged
 
 **Assessment type:** pass/fail
 
-## Location
+### Location
 
 **Location:** Time Room, Perimeter Institute
 
@@ -41,7 +43,51 @@ encouraged
 
 **First Lecture:** Monday Jan. 13, 2020
 
-## Contact
+### Contact
 
 Contact Erik Schnetter <eschnetter@perimeterinstitute.ca> by email, or
 open an issue in this repository (which will be public).
+
+
+
+## Schedule (may change)
+
+**Week 1: Jan 13 & 15:** *Introduction to the
+[Julia](https://julialang.org) programming language.* Most of the
+course content will be based on Julia.
+
+**Week 2: Jan 20 & 22:** *Reproducible science: Github and shell
+scripts.* Version control with `git` and friends is a must these days,
+not just for big software projects, but also for small lab projects,
+coursework, and papers.
+
+**Week 3: Jan 27 & 29:** *Discretizing functions.* One often needs to
+represent functions in a computer (e.g. a density or velocity field).
+We discuss and experiment with a few approaches.
+
+**Week 4: Feb 3 & 5:** *(Elliptic) partial differential equations
+(PDEs).* We discuss ODEs, PDEs, and in particular elliptic PDEs. We
+will then calculate the structure of a spherically symmetry star in
+general relativity, solving the Tolman-Oppenheimer-Volkoff (TOV)
+equation.
+
+**Week 5: Feb 10 & 12:** *Time-dependent (hyperbolic) partial
+differential equations (PDEs).* Time-dependent problems are more
+difficult to solve, as there are numerous ways to encounter
+instabilities. We will discuss topics such as well-posedness, stable
+discretizations, and will solve a wave equation.
+
+**Week 6: Feb 17 & 19:** *No lectures* (Family Day, Reading week)
+
+**Week 7: Feb 24 & 26:** *Will East: Relativistic Hydrodynamics I*
+
+**Week 8: Mar 2 & 4:** *Will East: Relativistic Hydrodynamics II*
+
+**Week 9: Mar 9 & 11:** *Denis Rosset: Convex Optimization*
+
+**Week 10: Mar 16 & 18:** *Parallel Computing (threads), Distributed
+Computing (MPI)*
+
+**Week 11: Mar 23 & 25:** *Image Processing I*
+
+**Week 12: Mar 30 & 31:** *Image Processing II*

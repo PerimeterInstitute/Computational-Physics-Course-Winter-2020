@@ -73,10 +73,12 @@ open an issue in this repository (which will be public).
 [Julia](https://julialang.org) programming language.* Most of the
 course content will be based on Julia.
 
-**Week 2: Jan 20 & 22:** *Reproducible science: Github and shell
+**Week 2: Jan 20 & 22:** *Reproducible science: Git, Github and shell
 scripts.* Version control with `git` and friends is a must these days,
 not just for big software projects, but also for small lab projects,
-coursework, and papers.
+coursework, and papers. Being able to reproduce your results is also
+essential, and writing `bash` shell scripts is a reasonable way of
+doing this.
 
 **Week 3: Jan 27 & 29:** *Discretizing functions.* One often needs to
 represent functions in a computer (e.g. a density or velocity field).
@@ -84,7 +86,7 @@ We discuss and experiment with a few approaches.
 
 **Week 4: Feb 3 & 5:** *(Elliptic) partial differential equations
 (PDEs).* We discuss ODEs, PDEs, and in particular elliptic PDEs. We
-will then calculate the structure of a spherically symmetry star in
+will then calculate the structure of a spherically symmetric star in
 general relativity, solving the Tolman-Oppenheimer-Volkoff (TOV)
 equation.
 
@@ -96,7 +98,10 @@ discretizations, and will solve a wave equation.
 
 **Week 6: Feb 17 & 19:** *No lectures* (Family Day, Reading week)
 
-**Week 7: Feb 24 & 26:** (TBA)
+**Week 7: Feb 24 & 26:** *Fourier transforms.* Working in Fourier
+space is more natural for some problems, and the Fast Fourier
+Transform (FFT) makes this computationally tractable.  FFT libraries
+have some complexities (pun intended), so we will experiment with them.
 
 **Week 8: Mar 2 & 4:** *Will East: Relativistic Hydrodynamics*
 
@@ -105,6 +110,10 @@ discretizations, and will solve a wave equation.
 **Week 10: Mar 16 & 18:** *Parallel Computing (threads), Distributed
 Computing (MPI)*
 
-**Week 11: Mar 23 & 25:** *Image Processing I*
+**Week 11: Mar 23 & 25:** *Image Processing I.* Using astronomical
+images as an example, we will experiment with some basic image
+processing algorithms.
 
-**Week 12: Mar 30 & 31:** *Image Processing II*
+**Week 12: Mar 30 & 31:** *Image Processing II.* Building on last
+  week's experiments, we will work on detecting and measuring stars in
+  astronomical images.

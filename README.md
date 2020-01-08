@@ -50,7 +50,7 @@ encouraged
 
 **Location:** Time Room, Perimeter Institute
 
-**Time:** Mondays 13:00 - 14:30 and Wednesdays 12:30 - 14:00
+**Time:** Mondays 13:30 - 14:30 and Wednesdays 12:30 - 14:00
 
 **First Lecture:** Monday Jan. 13, 2020
 

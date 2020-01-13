@@ -69,7 +69,7 @@ open an issue in this repository (which will be public).
 
 ## Schedule
 
-**Week 1: Jan 13 & 16:** (Note: Class is on Thu instead of Wed!)
+**Week 1: Jan 13 & 16: (Note: Class meets on Thu instead of Wed!)**
 *Introduction to the [Julia](https://julialang.org) programming
 language.* Most of the course content will be based on Julia.
 

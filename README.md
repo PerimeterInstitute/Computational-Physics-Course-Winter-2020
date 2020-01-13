@@ -50,7 +50,7 @@ encouraged
 
 **Location:** Time Room, Perimeter Institute
 
-**Time:** Mondays 13:30 - 14:30 and Wednesdays 12:30 - 14:00
+**Time:** Mondays 13:00 - 14:30 and Wednesdays 12:30 - 14:00
 
 **First Lecture:** Monday Jan. 13, 2020
 
@@ -67,11 +67,11 @@ open an issue in this repository (which will be public).
 
 --------------------------------------------------------------------------------
 
-## Schedule (may change)
+## Schedule
 
-**Week 1: Jan 13 & 15:** *Introduction to the
-[Julia](https://julialang.org) programming language.* Most of the
-course content will be based on Julia.
+**Week 1: Jan 13 & 16:** (Note: Class is on Thu instead of Wed!)
+*Introduction to the [Julia](https://julialang.org) programming
+language.* Most of the course content will be based on Julia.
 
 **Week 2: Jan 20 & 22:** *Reproducible science: Git, Github and shell
 scripts.* Version control with `git` and friends is a must these days,
@@ -98,10 +98,11 @@ discretizations, and will solve a wave equation.
 
 **Week 6: Feb 17 & 19:** *No lectures* (Family Day, Reading week)
 
-**Week 7: Feb 24 & 26:** *Fourier transforms.* Working in Fourier
-space is more natural for some problems, and the Fast Fourier
-Transform (FFT) makes this computationally tractable.  FFT libraries
-have some complexities (pun intended), so we will experiment with them.
+**Week 7: Feb 24 & 26:** *Spectral representations.* Working in
+Fourier space or with Spherical Harmonics is more natural for some
+problems, and the Fast Fourier Transform (FFT) makes this
+computationally tractable. FFT libraries have some complexities (pun
+intended), so we will experiment with them.
 
 **Week 8: Mar 2 & 4:** *Will East: Relativistic Hydrodynamics*
 

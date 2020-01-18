@@ -69,9 +69,10 @@ open an issue in this repository (which will be public).
 
 ## Schedule
 
-**Week 1: Jan 13 & 16: (Note: Class meets on Thu instead of Wed!)**
-*Introduction to the [Julia](https://julialang.org) programming
-language.* Most of the course content will be based on Julia.
+**Week 1: Jan 13 & 16: (Note: Class meets on Thu instead of Wed this
+week!)** *Introduction to the [Julia](https://julialang.org)
+programming language.* Most of the course content will be based on
+Julia.
 
 **Week 2: Jan 20 & 22:** *Reproducible science: Git, Github and shell
 scripts.* Version control with `git` and friends is a must these days,
@@ -79,6 +80,9 @@ not just for big software projects, but also for small lab projects,
 coursework, and papers. Being able to reproduce your results is also
 essential, and writing `bash` shell scripts is a reasonable way of
 doing this.
+
+- In preparation for the Jan 20 lecture, please obtain a Github
+  account (instructions [here](https://github.com).
 
 **Week 3: Jan 27 & 29:** *Discretizing functions.* One often needs to
 represent functions in a computer (e.g. a density or velocity field).

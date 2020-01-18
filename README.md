@@ -82,7 +82,7 @@ essential, and writing `bash` shell scripts is a reasonable way of
 doing this.
 
 - In preparation for the Jan 20 lecture, please obtain a Github
-  account (instructions [here](https://github.com).
+  account (instructions [here](https://github.com/join).)
 
 **Week 3: Jan 27 & 29:** *Discretizing functions.* One often needs to
 represent functions in a computer (e.g. a density or velocity field).

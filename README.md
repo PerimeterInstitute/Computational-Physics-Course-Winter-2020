@@ -84,12 +84,12 @@ doing this.
 - In preparation for the Jan 20 lecture, please obtain a Github
   account (instructions [here](https://github.com/join).)
 
-**Week 3: Jan 27 & 29:** *Discretizing functions.* One often needs to
-represent functions in a computer (e.g. a density or velocity field).
-We discuss and experiment with a few approaches.
+**Week 3: Jan 27 & 29:** *No lectures* (PSI Winter school)
 
-**Week 4: Feb 3 & 5:** *(Elliptic) partial differential equations
-(PDEs).* We discuss ODEs, PDEs, and in particular elliptic PDEs. We
+**Week 4: Feb 3 & 5:** *Discretizing functions, (elliptic) partial
+differential equations (PDEs).* One often needs to represent functions
+in a computer (e.g. a density or velocity field). We discuss and
+experiment with a few approaches. We also discuss elliptic PDEs, and
 will then calculate the structure of a spherically symmetric star in
 general relativity, solving the Tolman-Oppenheimer-Volkoff (TOV)
 equation.

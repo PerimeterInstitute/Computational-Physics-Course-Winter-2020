@@ -2,6 +2,9 @@
 
 Homework for the module **Differential equations**
 
+The homework is due on **Friday, February 28, 2020**, via email
+pointing me to your git repository.
+
 Create a Julia package that solves the scalar wave equation in 1+1
 dimensions.
 

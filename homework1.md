@@ -2,6 +2,9 @@
 
 Homework for the module **Introduction to Julia and git**
 
+The homework is due on **Friday, February 7, 2020**, via email
+pointing me to your git repository.
+
 Create a Julia package that solve a simple but non-trivial task. (For
 example, the Julia package could be about handling sorted lists of
 numbers, and could contain functions to generate sorted lists and to

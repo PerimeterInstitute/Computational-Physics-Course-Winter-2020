@@ -84,6 +84,8 @@ doing this.
 - In preparation for the Jan 20 lecture, please obtain a Github
   account (instructions [here](https://github.com/join).)
 
+- [Homework 1](homework1.md)
+
 **Week 3: Jan 27 & 29:** *No lectures* (PSI Winter school)
 
 **Week 4: Feb 3 & 5:** *Discretizing functions, (elliptic) partial
@@ -99,6 +101,8 @@ differential equations (PDEs).* Time-dependent problems are more
 difficult to solve, as there are numerous ways to encounter
 instabilities. We will discuss topics such as well-posedness, stable
 discretizations, and will solve a wave equation.
+
+- [Homework 2](homework2.md)
 
 **Week 6: Feb 17 & 19:** *No lectures* (Family Day, Reading week)
 

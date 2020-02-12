@@ -104,7 +104,9 @@ discretizations, and will solve a wave equation.
 
 - [Homework 2](homework2.md)
 
-**Week 6: Feb 17 & 19:** *No lectures* (Family Day, Reading week)
+**Week 6: Feb 17:** *No lecture* (Family Day)
+
+**Week 6: Feb 19:** (Reading week) General Q&A session, no fixed topic
 
 **Week 7: Feb 24 & 26:** *Spectral representations.* Working in
 Fourier space or with Spherical Harmonics is more natural for some

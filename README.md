@@ -116,6 +116,8 @@ intended), so we will experiment with them.
 
 **Week 8: Mar 2 & 4:** *Will East: Relativistic Hydrodynamics*
 
+- [Homework 3](homework3.md)
+
 **Week 9: Mar 9 & 11:** *Denis Rosset: Convex Optimization*
 
 **Week 10: Mar 16 & 18:** *Parallel Computing (threads), Distributed

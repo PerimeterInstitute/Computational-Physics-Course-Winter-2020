@@ -123,8 +123,10 @@ intended), so we will experiment with them.
 **Week 9: Mar 9 & 11:** *Denis Rosset: Convex Optimization*
 
 **Week 10: Mar 16 & 18:** *Parallel Computing (threads), Distributed
-Computing (MPI)* This lecture and the following will be taught online
-via Zoom, details to be announced.
+Computing (MPI)*
+
+- **This lecture and the following will be taught online via Zoom,
+  details to be announced.**
 
 **Week 11: Mar 23 & 25:** *Image Processing I.* Using astronomical
 images as an example, we will experiment with some basic image

@@ -50,7 +50,7 @@ encouraged
 
 **Previous Location:** Time Room, Perimeter Institute
 
-**Location:** Online via Zoom, details to be announced
+**Location:** Online via Zoom; details see below
 
 **Time:** Mondays 13:30 - 15:00 and Wednesdays 12:30 - 14:00
 
@@ -125,8 +125,7 @@ intended), so we will experiment with them.
 **Week 10: Mar 16 & 18:** *Parallel Computing (threads), Distributed
 Computing (MPI)*
 
-- **This lecture and the following will be taught online via Zoom,
-  details to be announced.**
+- **This lecture and the following will be taught online via Zoom: https://pitp.zoom.us/j/182113370 **
 
 **Week 11: Mar 23 & 25:** *Image Processing I.* Using astronomical
 images as an example, we will experiment with some basic image

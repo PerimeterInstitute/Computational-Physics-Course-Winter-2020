@@ -133,6 +133,6 @@ Computing (MPI)*
 images as an example, we will experiment with some basic image
 processing algorithms.
 
-**Week 12: Mar 30 & 31:** *Image Processing II.* Building on last
+**Week 12: Mar 30 & Apr 1:** *Image Processing II.* Building on last
   week's experiments, we will work on detecting and measuring stars in
   astronomical images.

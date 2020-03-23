@@ -129,9 +129,18 @@ Computing (MPI)*
   Monday: https://pitp.zoom.us/j/182113370, Wednesday:
   https://pitp.zoom.us/j/956012168 **
 
-**Week 11: Mar 23 & 25:** *Image Processing I.* Using astronomical
-images as an example, we will experiment with some basic image
-processing algorithms.
+**Week 11: Mar 23:** *Performance Optimization.* Modern computing
+architectures execute programs in ways that is quite different from
+what one would naturally expect. Understanding this is important to
+writing efficient computer programs. I will also introduce Julia-based
+tools to analyze and improve efficiency.
+
+- **This lecture will be taught online via Zoom:
+  https://pitp.zoom.us/j/458227079 **
+
+**Week 11: Mar 25:** *Image Processing I.* Using astronomical images
+as an example, we will experiment with some basic image processing
+algorithms.
 
 **Week 12: Mar 30 & Apr 1:** *Image Processing II.* Building on last
   week's experiments, we will work on detecting and measuring stars in
